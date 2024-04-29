@@ -1,4 +1,29 @@
-# Employee contact info app with Next.js and Postgres on the Coherence platform
+<p align="center">
+  <a href="https://www.withcoherence.com">
+    <img alt="Coherence Logo" title="Coherence" src="./logo.png" width="400" style="color: black">
+  </a>
+</p>
+
+
+<p align="center">
+  <i>Platform-as-a-service in your own Cloud</i><br/> 
+  <a href="https://www.withcoherence.com">withcoherence.com</a>
+</p>
+
+<h1 align="center">
+Employee contact info app with Next.js and Postgres on the Coherence platform
+</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+</p>
+
+<br/>
+
+<p>
+This is the code to accompany the tutorial available at <a href="https://docs.withcoherence.com/docs/getting-started/create-nextjs-postgres-full-stack-app">Employee contact info app with Next.js and Postgres on the Coherence platform</a>.
+</p>
 
 Learn how to build a full-stack app with Next.js and Postgres on the Coherence platform.
 
