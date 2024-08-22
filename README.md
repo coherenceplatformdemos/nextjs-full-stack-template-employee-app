@@ -15,16 +15,30 @@ Employee contact info app with Next.js and Postgres on the Coherence platform
 </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
 <br/>
 
 <p>
-This is the repository to accompany our [How to build a technical documentation site](https://docs.ritza.co). Read the [quickstart](https://docs.ritza.co/getting-started/quickstart/) to see how to replicate it, or just clone this and figure it out on your own.
+This is the code to accompany the tutorial available at <a href="https://docs.withcoherence.com/docs/getting-started/create-nextjs-postgres-full-stack-app">Employee contact info app with Next.js and Postgres on the Coherence platform</a>.
 </p>
 
-<hr/>
+Learn how to build a full-stack app with Next.js and Postgres on the Coherence platform.
 
-If you need help, we'll do it for you. See [https://ritza.co](ritza.co) for more.
+## Getting Started 
+
+Fork the repository to your GitHub account. To test locally, clone the forked repository to your machine. You will need to have Docker installed.
+
+```shell
+git clone https://github.com/<your_github_username>/nextjs-postgress-employee-app.git
+cd nextjs-postgress-employee-app
+docker-compose up 
+```
+
+After a successful build, the application will be accessible at http://localhost:3000.
+
+## How to deploy on the Coherence platform
+
+Detailed instructions are provided in the guide at https://docs.withcoherence.com/docs/getting-started/create-nextjs-postgres-full-stack-app.
