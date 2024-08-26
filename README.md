@@ -11,23 +11,23 @@
 </p>
 
 <h1 align="center">
-Flask and Postgres Example
+Next.js and Postgres Example
 </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 <br/>
 
-# Full stack Flask and Postgres application (employee management)
+# Full stack Next.js and Postgres application (employee management)
 
 <p>
-This is the code to accompany the tutorial available at our <a href="https://docs.withcoherence.com/coherence-templates/full-stack-template/?tabs=flask">Framework Guide (Flask)</a> page.
+This is the code to accompany the tutorial available at our <a href="https://docs.withcoherence.com/coherence-templates/full-stack-template/?tabs=nextjs">Framework Guide (Next.js)</a> page.
 </p>
 
-You can use it as a starting point for any full stack Flask application. Read the guide to see how to deploy it to a production environment in your own cloud, or see the instructions below to run a development version of it locally.
+You can use it as a starting point for any full stack Next.js application. Read the guide to see how to deploy it to a production environment in your own cloud, or see the instructions below to run a development version of it locally.
 
 ## Getting Started 
 
