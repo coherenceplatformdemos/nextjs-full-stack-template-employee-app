@@ -24,7 +24,7 @@ Next.js and Postgres Example
 # Full stack Next.js and Postgres application (employee management)
 
 <p>
-This is the code to accompany the tutorial available at our <a href="https://docs.withcoherence.com/coherence-templates/full-stack-template/?tabs=nextjs">Framework Guide (Next.js)</a> page.
+This is the code to accompany the tutorial available at our <a href="https://docs.withcoherence.com/getting-started/create-nextjs-postgres-full-stack-app/">Getting Started (Next.js)</a> page.
 </p>
 
 You can use it as a starting point for any full stack Next.js application. Read the guide to see how to deploy it to a production environment in your own cloud, or see the instructions below to run a development version of it locally.
